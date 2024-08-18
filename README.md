@@ -12,4 +12,3 @@
 ![DOCKER](https://img.shields.io/badge/-DOCKER-000000?style=for-the-badge&logo=docker)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea)
 
-Links
