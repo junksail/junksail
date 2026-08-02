@@ -1,6 +1,6 @@
 ![Header](https://github.com/junksail/junksail/blob/main/assets/header.jpg)
 
-## Начинающий Java-разработчик
+## Гнида блять
 
 ### Инструменты и языки:
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=jameson)
